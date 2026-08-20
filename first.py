@@ -1,3 +1,4 @@
+print("Welcome to my beginning series of python with Avesh Parmar Programming langauge is not just a language That's the machine to improve our thinking skills")
 a= int(input("Enter a Number : " ))
 result = "Even" if a%2==0 else "Odd"
 print(result)
